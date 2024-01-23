@@ -61,7 +61,7 @@ Embracing DevOps Interview Mock Practices for DEVOPS. This article aims to provi
         
     * Implement security best practices. 🔒
         
-10. **Docker Command for Expose:** `docker run -p 80:80 my-container` 🛳️
+10. **Docker Command for Expose:**`docker run -p 80:80 my-container` 🛳️
     
 11. **Controller Manager in Kubernetes:** The Controller Manager in Kubernetes manages controller processes that regulate the state of the cluster, such as node controller and replication controller. 🤖
     
@@ -163,6 +163,20 @@ Embracing DevOps Interview Mock Practices for DEVOPS. This article aims to provi
     
 35. **What is Playbook** 📚\*\*:\*\* Playbooks are a central concept in Ansible, serving as a way to organize and execute automation tasks. They provide a higher-level abstraction for expressing configurations, deployments, and orchestration.
     
+36. Type of S3 :- 7 types
+    
+    * S3 Standard: For frequently accessed data
+        
+    * S3 Intelligent-Tiering: For automatic cost savings for data with unknown or changing access patterns
+        
+    * S3 One Zone-IA
+        
+    * S3 Glacier
+        
+    * S3 Glacier Deep Archive
+        
+    * S3 Outposts
+        
 
 This guide provides a thorough overview of crucial DevOps and containerization concepts, offering valuable insights for developers and DevOps practitioners navigating the ever-evolving landscape. Happy practicing! 🚀
 
